@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Noto Sans', sans-serif;
+}
+.form{
+	width: 100%;
+	height: 100vh;
+	background: black;
+	padding-top: 100px;
+
+}
+.container{
+	width: 1140px;
+	margin: auto;
+}
+.form-box{
+	background: white;
+	width: 500px;
+	margin: auto;
+	border-radius: 8px;
+
+}
+.header{
+	margin: 10px 15px 60px;
+}
+.header h1{
+	font-size: 30px;
+	font-weight: 800;
+	color: #0f1a3c;
+	padding: 15px 40px;
+	text-align: center;
+}
+.header p{
+	background-color: #00c0d9;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	padding: 20px 10px;
+}
+.email{
+	padding: 15px 40px;
+}
+.email-address{
+	display: block;
+	margin-bottom: 10px;
+	color: #0f1a3c;
+	font-weight: 700;
+}
+.email-box{
+	padding: 10px;
+	width: 80%;
+	border-color: #ff7979;
+}
+.btn button{
+	margin-bottom: 30px;
+	font-size: 16px;
+	padding: 10px 40px;
+	background-color: #00c0d9;
+	color: white;
+	border: none;
+
+}
+.btn{
+	text-align: center;
+}
